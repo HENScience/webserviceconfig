@@ -5544,7 +5544,9 @@ var rules = [
             "zyzc9.com",
             "zzcartoon.com",
             "zzcloud.me",
-            "zzux.com"
+            "zzux.com",
+            "translate.google.com",
+            "translate.google.co.kr"
         ]
     ]
 ];
