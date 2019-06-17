@@ -5546,7 +5546,8 @@ var rules = [
             "zzcloud.me",
             "zzux.com",
             "translate.google.com",
-            "translate.google.co.kr"
+            "translate.google.co.kr",
+            "en.wikipedia.org"
         ]
     ]
 ];
