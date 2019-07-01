@@ -1364,6 +1364,7 @@ var rules = [
             "eireinikotaerukai.com",
             "eisbb.com",
             "eksisozluk.com",
+            "elk.hitalent.us",
             "electionsmeter.com",
             "elgoog.im",
             "ellawine.org",
