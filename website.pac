@@ -5534,6 +5534,7 @@ var rules = [
             "zpn.im",
             "zspeeder.me",
             "zsrhao.com",
+            "zoom.us",
             "zuo.la",
             "zuobiao.me",
             "zuola.com",
