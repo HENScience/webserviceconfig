@@ -85,13 +85,13 @@ var rules = [
             "wanfang.gov.tw",
             "weibo.com",
             "yahoo.cn",
-            "zoom.us",
             "yatsen.gov.tw",
             "yda.gov.tw",
             "youdao.com",
             "zhongsou.com"
         ],
         [
+            "zoom.us",
             "030buy.com",
             "0rz.tw",
             "1-apple.com.tw",
