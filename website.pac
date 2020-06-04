@@ -88,7 +88,6 @@ var rules = [
             "yatsen.gov.tw",
             "yda.gov.tw",
             "youdao.com",
-            "raw.githubusercontent.com",
             "zhongsou.com"
         ],
         [
