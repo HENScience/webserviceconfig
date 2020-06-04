@@ -5543,6 +5543,7 @@ var rules = [
             "zzcartoon.com",
             "zzcloud.me",
             "zzux.com",
+            "raw.githubusercontent.com",
             "translate.google.com",
             "translate.google.co.kr",
             "en.wikipedia.org"
