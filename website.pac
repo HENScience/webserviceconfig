@@ -88,6 +88,7 @@ var rules = [
             "yatsen.gov.tw",
             "yda.gov.tw",
             "youdao.com",
+            "raw.githubusercontent.com",
             "zhongsou.com"
         ],
         [
@@ -5543,7 +5544,6 @@ var rules = [
             "zzcartoon.com",
             "zzcloud.me",
             "zzux.com",
-            "raw.githubusercontent.com",
             "translate.google.com",
             "translate.google.co.kr",
             "en.wikipedia.org"
